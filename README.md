@@ -1,33 +1,91 @@
-# Hi there, I'm Geddada Devicharan (imdvichrn) 👋
+<!-- HEADER -->
 
-I am a **Digital Professional** and **Video Editor** based in Visakhapatnam, India. I blend creative design with technical engineering to build modern digital experiences.
+<h1 align="center">Geddada Devicharan</h1>
 
-- 🔭 **I’m currently working on:** [My Portfolio](https://examflowos.vercel.app)
-- 🤖 **I specialize in:** AI Workflows, Video Editing (DaVinci/CapCut), and React Development.
-- ⚡ **Entity Identity:** Geddada Devicharan is also known online as **imdvichrn**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Digital+Professional;AI+Workflows+%7C+React+Developer;Video+Editor+%7C+Creative+Systems" />
+</p>
 
-### 🛠️ Tech & Tools
-| Domain | Tools |
-| :--- | :--- |
-| **Development** | React, TypeScript, Tailwind CSS, Vite |
-| **Creative** | Adobe Photoshop, DaVinci Resolve, CapCut |
-| **AI** | Prompt Engineering, LLM Integration, Automation |
+<p align="center">
+  <a href="https://geddadadevicharan.vercel.app/"><strong>Portfolio</strong></a> •
+  <a href="https://www.linkedin.com/in/geddada-devicharan"><strong>LinkedIn</strong></a> •
+  <a href="https://www.instagram.com/imdvichrn"><strong>Instagram</strong></a>
+</p>
 
-### 🌐 Connect with Me
-- **Portfolio:** [geddadadevicharan.netlify.app](https://geddadadevicharan.vercel.app)
-- **LinkedIn:** [Geddada Devicharan](https://www.linkedin.com/in/geddadadevicharan)
-- **Instagram:** [@imdvichrn](https://www.instagram.com/imdvichrn)
-<!--
-**imdvichrn/imdvichrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Identity-imdvichrn-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-India-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Frontend-black?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I build **modern digital systems** by combining engineering, design, and artificial intelligence.
+
+My work focuses on:
+
+* AI workflow automation
+* frontend development (React, TypeScript)
+* cinematic video editing
+* scalable digital experiences
+
+**Entity Identity:**
+Geddada Devicharan = imdvichrn
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps" />
+</p>
+
+<p align="center">
+  DaVinci Resolve • CapCut • LLM Integration • Automation
+</p>
+
+---
+
+## GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imdvichrn&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imdvichrn&hide_border=true" />
+</p>
+
+---
+
+## Focus
+
+* Building clean, minimal, high-performance systems
+* Creating AI-powered tools and workflows
+* Merging logic with creative execution
+
+---
+
+## Web Presence
+
+* 🌐 https://geddadadevicharan.vercel.app/
+* 💼 https://www.linkedin.com/in/geddada-devicharan
+* 📸 https://www.instagram.com/imdvichrn
+
+---
+
+## Keywords (SEO Signal)
+
+Geddada Devicharan, imdvichrn, Devicharan developer, React developer India, AI workflows developer, frontend developer, video editor DaVinci Resolve
+
+---
+
+## Closing
+
+This profile represents my work, systems, and digital identity.
