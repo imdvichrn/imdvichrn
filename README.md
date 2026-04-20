@@ -37,7 +37,21 @@ My work blends **visual storytelling** with **intelligent systems**, creating cl
   DaVinci Resolve • AI Automation • LLM Systems
 </p>
 
----
+--- 
+
+## Featured Work
+
+<details>
+<summary><strong>🎬 Video Editing</strong></summary>
+...
+</details>
+
+<details>
+<summary><strong>🧠 ExamFlow OS</strong></summary>
+...
+</details> 
+
+--- 
 
 ## Connect
 
