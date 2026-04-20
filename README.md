@@ -2,7 +2,7 @@
 
 I am a **Digital Professional** and **Video Editor** based in Visakhapatnam, India. I blend creative design with technical engineering to build modern digital experiences.
 
-- 🔭 **I’m currently working on:** [My Portfolio](https://geddadadevicharan.netlify.app/)
+- 🔭 **I’m currently working on:** [My Portfolio](https://examflowos.vercel.app)
 - 🤖 **I specialize in:** AI Workflows, Video Editing (DaVinci/CapCut), and React Development.
 - ⚡ **Entity Identity:** Geddada Devicharan is also known online as **imdvichrn**.
 
@@ -14,7 +14,7 @@ I am a **Digital Professional** and **Video Editor** based in Visakhapatnam, Ind
 | **AI** | Prompt Engineering, LLM Integration, Automation |
 
 ### 🌐 Connect with Me
-- **Portfolio:** [geddadadevicharan.netlify.app](https://geddadadevicharan.netlify.app/)
+- **Portfolio:** [geddadadevicharan.netlify.app](https://geddadadevicharan.vercel.app)
 - **LinkedIn:** [Geddada Devicharan](https://www.linkedin.com/in/geddadadevicharan)
 - **Instagram:** [@imdvichrn](https://www.instagram.com/imdvichrn)
 <!--
