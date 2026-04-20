@@ -44,7 +44,30 @@ My work blends **visual storytelling** with **intelligent systems**, creating cl
 <details>
 <summary><strong>🎬 Video Editing</strong></summary>
 ...
+</<details>
+<summary><strong>🎬 Video Editing & Post-Production (Click to View)</strong></summary>
+
+---
+
+### 🧰 Tools
+
+DaVinci Resolve • Premiere Pro • Fusion
+
+### 🎯 Role
+
+Lead Editor • Colorist • Sound Design
+
+### ⚙️ Process
+
+* Narrative planning
+* Color grading (LUTs, curves)
+* Audio sync
+* Final delivery
+
+🔗 https://your-portfolio-link.com
+
 </details>
+>
 
 <details>
 <summary><strong>🧠 ExamFlow OS</strong></summary>
