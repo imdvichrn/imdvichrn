@@ -87,7 +87,7 @@ Lead Editor • Colorist • Sound Design
 <br>
 
 <p align="center">
-  <video src="https://geddadadevicharan.vercel.app/siri-wave.webm" controls width="90%"></video>
+  <video src="" controls width="90%"></video>
 </p>
 
 Echoless is a **personal AI system built from scratch** that integrates multiple AI models to produce higher-quality, decision-level outputs.
