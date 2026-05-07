@@ -1,8 +1,3 @@
-````md
-<!-- ========================================= -->
-<!--                 HEADER                    -->
-<!-- ========================================= -->
-
 <p align="center">
   <img src="https://geddadadevicharan.vercel.app/assets/profile-avatar-p_BCAhrx.png" width="140" style="border-radius:50%;" />
 </p>
