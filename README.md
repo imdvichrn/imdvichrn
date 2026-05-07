@@ -4,7 +4,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://geddadadevicharan.vercel.app/assets/profile-avatar-p_BCAhrx.png" width="140" />
+  <img src="https://geddadadevicharan.vercel.app/assets/profile-avatar-p_BCAhrx.png" width="140" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Geddada Devicharan</h1>
@@ -33,22 +33,22 @@
 
 ---
 
-# About
+## About
 
-I build modern digital systems that combine:
+I build modern digital systems focused on:
 
-- AI workflows
+- AI workflow automation
 - cognitive productivity
-- automation systems
-- creative engineering
 - memory optimization
-- modern interfaces
+- intelligent interfaces
+- creative engineering
+- scalable digital systems
 
-My work blends **visual storytelling** with **intelligent systems**, creating scalable and high-performance digital experiences.
+My work combines **visual storytelling** with **intelligent systems** to create clean, efficient, and high-performance experiences.
 
 ---
 
-# Focus
+## Focus
 
 - Video Editing (DaVinci Resolve / Premiere Pro)
 - AI Workflow Automation
@@ -59,40 +59,126 @@ My work blends **visual storytelling** with **intelligent systems**, creating sc
 
 ---
 
-# Stack & Tools
+## Stack & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,nodejs,express,mongodb,git,github,vscode,figma" />
-
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,nodejs,express,mongodb,git,github,vscode,figma" />
 </p>
 
 <p align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" width="50" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="50" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50" />
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" width="52" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="52" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="52" />
 </p>
 
 <p align="center">
-  DaVinci Resolve • Premiere Pro • Photoshop
+  <strong>DaVinci Resolve</strong> • Premiere Pro • Photoshop
+</p>
+
+<p align="center">
+  AI Automation • LLM Integrations • Workflow Systems
 </p>
 
 ---
 
-# Featured Systems
+## Featured Work
+
+<details>
+<summary><strong>🎬 Video Editing & Post-Production</strong></summary>
+
+---
+
+### Tools
+
+DaVinci Resolve • Premiere Pro • Fusion
+
+### Role
+
+Lead Editor • Colorist • Sound Design
+
+### Process
+
+- Narrative planning
+- Color grading
+- Audio synchronization
+- Final delivery systems
+
+### Focus Areas
+
+- cinematic editing
+- motion systems
+- workflow optimization
+- visual storytelling
+
+🔗 https://geddadadevicharan.vercel.app
+
+</details>
+
+---
+
+<details>
+<summary><strong>🤖 Echoless — Multi-Model AI System</strong></summary>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f494204-7bea-4195-83cd-eec5fb208112" width="240" />
+</p>
+
+Echoless is a personal AI orchestration system designed around multi-model reasoning and workflow intelligence.
+
+---
+
+### Core Architecture
+
+- Multi-model orchestration
+- Parallel AI execution
+- Dynamic routing systems
+- Output refinement pipelines
+- Comparative reasoning
+
+---
+
+### Execution Logic
+
+```txt
+Input
+  ↓
+Multiple AI Models
+  ↓
+Comparative Analysis
+  ↓
+Output Synthesis
+  ↓
+Refined Final Response
+````
+
+---
+
+### Capabilities
+
+* Cross-model reasoning
+* Workflow integration
+* Personalized outputs
+* AI-assisted execution
+* Continuous AI interaction layer
+
+---
+
+### Status
+
+Private research system — actively evolving.
+
+</details>
+
+---
 
 <details open>
-<summary>
+<summary><strong>🧠 ExamFlowOS — Cognitive Exam Preparation System</strong></summary>
 
-## 🧠 ExamFlowOS — Cognitive Exam Preparation System
-
-</summary>
-
-<br>
+---
 
 <p align="center">
   <img src="https://geddadadevicharan.vercel.app/examflow-logo.jpg" width="120" />
@@ -104,31 +190,35 @@ My work blends **visual storytelling** with **intelligent systems**, creating sc
 
 ---
 
-ExamFlowOS is a structured learning system designed around:
+ExamFlowOS is a structured learning system built around:
 
-- active recall
-- spaced repetition
-- memory science
-- focus engineering
-- cognitive tracking
+* active recall
+* spaced repetition
+* memory science
+* focus engineering
+* cognitive tracking
 
 Built specifically for Indian university students.
 
 ---
 
-## Core Features
-
-### ⚡ Smart Recall Engine (SM2)
+### Smart Recall Engine (SM2)
 
 Adaptive spaced repetition system based on memory retention science.
 
 ```txt
-Study → Forgetting Curve → Timed Recall → Long-Term Memory
-````
+Study
+  ↓
+Forgetting Curve
+  ↓
+Timed Recall
+  ↓
+Long-Term Memory
+```
 
 ---
 
-### 📚 AI Syllabus Extraction
+### AI Syllabus Extraction
 
 Upload syllabus PDF or paste text.
 
@@ -142,7 +232,7 @@ Subject
 
 ---
 
-### 🧾 PYQ Bank
+### PYQ Bank
 
 Supports:
 
@@ -157,17 +247,17 @@ Topic-based previous year question matching.
 
 ---
 
-### 🎧 Focus Engine
+### Focus Engine
 
-* Pomodoro system
+* Pomodoro sessions
 * Ambient audio
 * Lock-in mode
-* Session tracking
-* Focus analytics
+* Session analytics
+* Deep work tracking
 
 ---
 
-### 📊 Analytics
+### Analytics
 
 Tracks:
 
@@ -179,13 +269,13 @@ Tracks:
 
 ---
 
-## Stack
+### Stack
 
 React • TypeScript • Vite • Tailwind CSS • Framer Motion
 
 ---
 
-## Status
+### Status
 
 ```txt
 v1.0 — Active Development
@@ -194,7 +284,7 @@ Mobile App — In Progress
 
 ---
 
-## Links
+### Links
 
 🌐 Live Demo
 https://examflowos.vercel.app
@@ -207,108 +297,19 @@ https://github.com/studydevicharan-create/examflowos
 ---
 
 <details>
-<summary>
-
-## 🤖 Echoless — Multi-Model AI System
-
-</summary>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8f494204-7bea-4195-83cd-eec5fb208112" width="260" />
-</p>
+<summary><strong>🎬 Perfect Pack — Creative Asset Ecosystem</strong></summary>
 
 ---
 
-Echoless is a personal AI orchestration system designed around multi-model reasoning and workflow intelligence.
-
-Instead of relying on one model:
-
-```txt
-Input
- ↓
-Multiple AI Models
- ↓
-Comparative Analysis
- ↓
-Output Synthesis
- ↓
-Refined Final Response
-```
-
----
-
-## Core Architecture
-
-* Multi-model orchestration
-* Parallel AI execution
-* Dynamic routing systems
-* Output refinement pipelines
-* Personalized workflow intelligence
-
----
-
-## Capabilities
-
-* Cross-model reasoning
-* AI-assisted execution
-* Workflow integration
-* Personalized outputs
-* Continuous AI interaction layer
-
----
-
-## Status
-
-```txt
-Private Research System
-Actively evolving
-```
-
-</details>
-
----
-
-<details>
-<summary>
-
-## 🎬 Creative Systems & Editing
-
-</summary>
-
-<br>
-
-### Editing Stack
-
-* DaVinci Resolve
-* Premiere Pro
-* Fusion
-* Photoshop
-
----
-
-### Focus Areas
-
-* cinematic editing
-* color grading
-* sound design
-* workflow optimization
-* creative automation
-
----
-
-## Perfect Pack
-
-Professional asset ecosystem for editors.
+Professional asset ecosystem designed for creators and editors.
 
 Includes:
 
 * cinematic overlays
-* DRFX presets
 * textures
-* motion assets
+* DRFX presets
 * transitions
+* motion assets
 * sound systems
 
 ```txt
@@ -319,7 +320,7 @@ Launching soon.
 
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=imdvichrn&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -331,30 +332,28 @@ Launching soon.
 
 ---
 
-# Connect
+## Connect
 
 <p align="center">
+  <a href="https://geddadadevicharan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 
-<a href="https://geddadadevicharan.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+  <a href="https://github.com/imdvichrn">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https://github.com/imdvichrn">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://linkedin.com/in/geddada-devicharan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://linkedin.com/in/geddada-devicharan">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://instagram.com/imdvichrn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-<a href="https://instagram.com/imdvichrn">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:devicharangeddada@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="mailto:devicharangeddada@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -366,12 +365,14 @@ Launching soon.
 ---
 
 <p align="center">
-  <strong>Building systems for learning, memory, automation, and intelligent execution.</strong>
+  <strong>
+    Building systems for learning, memory, automation, and intelligent execution.
+  </strong>
 </p>
 
 <!-- ========================================= -->
 
-<!--            SEO / AI INDEXING              -->
+<!--              SEO / AI LAYER               -->
 
 <!-- ========================================= -->
 
@@ -380,19 +381,17 @@ Geddada Devicharan
 imdvichrn
 ExamFlowOS
 Echoless
-AI systems developer
-workflow engineer
+AI workflow engineer
 creative technologist
 React developer India
 TypeScript engineer
 LLM integrations
 memory systems
-active recall
 spaced repetition
 SM2 algorithm
-JNTU study platform
-offline-first apps
-creative automation
+offline-first applications
+workflow automation
+creative systems
 -->
 
 ```
